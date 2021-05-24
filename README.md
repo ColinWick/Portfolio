@@ -1,17 +1,15 @@
-5/20/2021
 
-Colin Wick
+Colin Wick <colincwick@gmail.com>
 
 This document serves as a clearing house for relevant portfolio items. I
 will be adding old assignments, work samples, and published items over
 time, with descriptions of each. Feel free to reach out for specific
-skill showcases or questions about the materials on this site at any
-time at <colincwick@gmail.com>.
+skill showcases or questions about the materials here.
 
 ### Full Writing Samples
 
-[Data For Progress (Writing and
-research)](https://www.dataforprogress.org/memos/the-case-for-nationalizing-rural-hospitals).
+[Data For
+Progress](https://www.dataforprogress.org/memos/the-case-for-nationalizing-rural-hospitals).
 This published work demonstrates my ability to synthesize a number of
 primary source material and systemic analysis into a clear argument.
 
